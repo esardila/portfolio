@@ -1,0 +1,116 @@
+{
+  "identity": {
+    "name": "Esteban Ardila Valencia",
+    "title": "Full-Stack Developer & Technical Architect",
+    "location": "Sydney, NSW, Australia",
+    "email": "esardilav@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/esardila/"
+  },
+
+  "about": "",
+
+  "experience": [
+    {
+      "company": "Momentum Talent Pty Ltd",
+      "role": "Software Developer / Senior Developer / Junior Tech Architect",
+      "period": "April 2021 – April 2026",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "company": "Giga Colombia",
+      "role": "Support Agent / Implementation Engineer",
+      "period": "July 2016 – July 2021",
+      "summary": "",
+      "highlights": []
+    }
+  ],
+
+  "projects": [
+    {
+      "name": "Profiles, Messages & Connections",
+      "description": "A Bubble.io template covering user profiles, connection requests, and real-time 1:1 chat. Built for SMEs and startups as a foundation for talent marketplaces, niche communities, and internal networks. Fully customisable in the Bubble editor without code.",
+      "tags": ["Bubble.io", "No-Code", "Real-Time Chat", "Template"],
+      "url": "https://bubble.io/template/profiles-messages-connections-1759297987856x676890433245937700"
+    },
+    {
+      "name": "AI Chat Knowledge Base",
+      "description": "A Bubble.io template for building a private AI chat assistant trained on your own documents. Built on a RAG architecture using the OpenAI API and vector store. Documents are chunked, embedded, and retrieved semantically at query time. Supports role-based access control and department-level knowledge organisation.",
+      "tags": ["Bubble.io", "OpenAI", "RAG", "Vector Store", "No-Code", "Template"],
+      "url": "https://bubble.io/template/ai-chat-knowledge-base-1755652466832x227257216124059650"
+    },
+    {
+      "name": "Client / Customer Portal",
+      "description": "",
+      "tags": [],
+      "url": "https://bubble.io/template/client--customer-portal-1755161193237x263746633989881860"
+    },
+    {
+      "name": "Icon Packs",
+      "description": "",
+      "tags": [],
+      "url": "https://bubble.io/plugin/icon-packs-1674777947381x791255394148417500"
+    },
+    {
+      "name": "",
+      "description": "",
+      "tags": [],
+      "url": "https://app.heyday-journal.com/"
+    },
+    {
+      "name": "",
+      "description": "",
+      "tags": [],
+      "url": "https://assesstreatrecord.com/"
+    },
+    {
+      "name": "",
+      "description": "",
+      "tags": [],
+      "url": "https://preplocal.com/"
+    },
+    {
+      "name": "",
+      "description": "",
+      "tags": [],
+      "url": "https://app.magicboards.io/"
+    },
+    {
+      "name": "",
+      "description": "",
+      "tags": [],
+      "url": "https://storygather.life/"
+    },
+    {
+      "name": "",
+      "description": "",
+      "tags": [],
+      "url": "https://boutiquepropertyhosts.com.au/"
+    }
+  ],
+
+  "skills": {
+    "Languages": [],
+    "Backend": [],
+    "Frontend": [],
+    "Databases": [],
+    "Integration": [],
+    "Cloud & Tooling": [],
+    "Testing": []
+  },
+
+  "education": [
+    {
+      "institution": "Universidad de los Andes",
+      "degree": "MasterTrack Certificate: Automated and Agile Software Engineering Principles",
+      "year": "2022"
+    },
+    {
+      "institution": "Escuela Colombiana de Carreras Industriales (ECCI)",
+      "degree": "Professional Diploma in Software Engineering",
+      "year": "2018"
+    }
+  ],
+
+  "certifications": []
+}
