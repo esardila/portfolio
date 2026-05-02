@@ -1,0 +1,61 @@
+*, *::before, *::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  line-height: 1.15;
+  -webkit-text-size-adjust: 100%;
+}
+
+body {
+  margin: 0;
+}
+
+main {
+  display: block;
+}
+
+a {
+  background-color: transparent;
+}
+
+img {
+  border-style: none;
+}
+
+#header h1 {
+  color: #fff !important;
+  text-shadow: 0 1px 3px rgba(0, 0, 0, 0.3);
+}
+
+section .card {
+  overflow: visible;
+}
+
+section .card-body {
+  word-wrap: break-word;
+  overflow-wrap: break-word;
+}
+
+#tab-nav {
+  border-bottom: 1px solid rgba(255, 255, 255, 0.15);
+}
+
+#tab-nav .nav-fill .nav-item {
+  margin: 0;
+}
+
+#tab-nav .nav-pills .nav-link {
+  color: rgba(255, 255, 255, 0.5);
+  padding: 0.75rem 1.5rem;
+  font-weight: 500;
+  background: transparent;
+  border-radius: 0;
+}
+
+#tab-nav .nav-pills .nav-link.active {
+  color: #fff;
+  background-color: rgba(255, 255, 255, 0.1);
+}

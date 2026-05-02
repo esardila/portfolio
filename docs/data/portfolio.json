@@ -4,7 +4,8 @@
     "title": "Full-Stack Developer & Technical Architect",
     "location": "Sydney, NSW, Australia",
     "email": "esardilav@gmail.com",
-    "linkedin": "https://www.linkedin.com/in/esardila/"
+    "linkedin": "https://www.linkedin.com/in/esardila/",
+    "photo": "assets/profile-photo.jpg"
   },
 
   "about": "",
@@ -14,15 +15,33 @@
       "company": "Momentum Talent Pty Ltd",
       "role": "Software Developer / Senior Developer / Junior Tech Architect",
       "period": "April 2021 – April 2026",
-      "summary": "",
-      "highlights": []
+      "summary": "Sydney-based technology venture delivering custom digital platforms for clients across multiple industries. Operated as both hands-on developer and technical architect, owning design and delivery from the ground up.",
+      "highlights": [
+        "Owned architectural decisions across multiple concurrent client platforms: data structure, integration patterns, service boundaries, and system scalability",
+        "Designed and implemented microservices-based workflows including internal API services, third-party integrations, and API gateway patterns",
+        "Led end-to-end delivery of MVPs, client-facing platforms, and internal tools across multiple industries",
+        "Built and deployed custom JavaScript and Node.js plugins in production",
+        "Integrated third-party REST APIs, payment processors, SOAP web services, and webhooks",
+        "Integrated AI-powered document generation services into live production platforms",
+        "Resolved performance, responsiveness, and accessibility bottlenecks across live applications",
+        "Mentored and provided technical guidance to junior developers",
+        "Collaborated with non-technical stakeholders to translate business requirements into technical solutions",
+        "Implemented workflow automation solutions using Make.com and Zapier"
+      ]
     },
     {
       "company": "Giga Colombia",
       "role": "Support Agent / Implementation Engineer",
       "period": "July 2016 – July 2021",
-      "summary": "",
-      "highlights": []
+      "summary": "Enterprise technology company delivering document management and business process solutions to large organisations across banking, finance, healthcare, and government. Progressed from Support Agent to Implementation Engineer.",
+      "highlights": [
+        "Implemented and configured the Hyland OnBase ECM platform end-to-end for enterprise clients, including Windows Server setup and full solution delivery",
+        "Developed custom C#, JavaScript, and user forms alongside platform configuration",
+        "Designed, built, and maintained RESTful APIs and SOAP web services to integrate OnBase with enterprise systems",
+        "Optimised SQL Server and OracleDB schemas, queries, and stored procedures for performance",
+        "Conducted requirements engineering with client stakeholders: gathering information, mapping business processes, and presenting proposals",
+        "Maintained comprehensive technical documentation across implementations"
+      ]
     }
   ],
 
