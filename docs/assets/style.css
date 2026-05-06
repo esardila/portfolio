@@ -1,55 +1,67 @@
-html {
-    line-height: 1.15;
-    -webkit-text-size-adjust: 100%;
+@import url(bootstrap.min.css);
+
+#main {
+  min-height: 100dvh;
+  background-color: #100c08;
 }
 
-body {
-    margin: 0;
+#preloader {
+  align-items: center;
+  display: flex;
+  height: 40px;
+  left: 50%;
+  position: absolute;
+  top: 50%;
+  transform: translate(-50%, -50%);
 }
 
-main {
-    display: block;
+.obj {
+  animation: loading 1.2s infinite;
+  background: #dac8ae;
+  border-radius: 50vh;
+  height: 0;
+  margin: 0 4px;
+  width: 8px;
 }
 
-a {
-    background-color: transparent;
+.obj:nth-child(2) {
+  animation-delay: 0.15s;
 }
 
-img {
-    border-style: none;
+.obj:nth-child(3) {
+  animation-delay: 0.35s;
 }
 
-#header h1 {
-    color: #fff !important;
-    text-shadow: 0 1px 3px rgba(0, 0, 0, 0.3);
+.obj:nth-child(4) {
+  animation-delay: 0.45s;
 }
 
-section .card {
-    overflow: visible;
+.obj:nth-child(5) {
+  animation-delay: 0.6s;
 }
 
-section .card-body {
-    word-wrap: break-word;
-    overflow-wrap: break-word;
+.obj:nth-child(6) {
+  animation-delay: 0.75s;
 }
 
-#tab-nav {
-    border-bottom: 1px solid rgba(255, 255, 255, 0.15);
+.obj:nth-child(7) {
+  animation-delay: 0.9s;
 }
 
-#tab-nav .nav-fill .nav-item {
-    margin: 0;
+.obj:nth-child(8) {
+  animation-delay: 1.05s;
 }
 
-#tab-nav .nav-pills .nav-link {
-    color: rgba(255, 255, 255, 0.5);
-    padding: 0.75rem 1.5rem;
-    font-weight: 500;
-    background: transparent;
-    border-radius: 0;
-}
+@keyframes loading {
+  0% {
+    height: 0;
+  }
 
-#tab-nav .nav-pills .nav-link.active {
-    color: #fff;
-    background-color: rgba(255, 255, 255, 0.1);
+  50% {
+    height: 80px;
+  }
+
+  100% {
+    height: 0;
+  }
 }
