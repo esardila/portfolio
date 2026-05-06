@@ -1,3 +1,7 @@
 # Local reference/source material — not for publishing
 base/
 AGENTS.md
+/portfolio.css
+
+package-lock.json
+package.json

@@ -1,0 +1,166 @@
+{
+  "identity": {
+    "name": "Esteban Ardila Valencia",
+    "title": "Full-Stack Developer & Technical Architect",
+    "location": "Sydney, NSW, Australia",
+    "email": "esardilav@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/esardila/",
+    "photo": "assets/profile-photo.jpg"
+  },
+
+  "about": "",
+
+  "experience": [
+    {
+      "company": "Momentum Talent Pty Ltd",
+      "role": "Software Developer / Senior Developer / Junior Tech Architect",
+      "period": "April 2021 – April 2026",
+      "summary": "Sydney-based technology venture delivering custom digital platforms for clients across multiple industries. Operated as both hands-on developer and technical architect, owning design and delivery from the ground up.",
+      "highlights": [
+        "Owned architectural decisions across multiple concurrent client platforms: data structure, integration patterns, service boundaries, and system scalability",
+        "Designed and implemented microservices-based workflows including internal API services, third-party integrations, and API gateway patterns",
+        "Led end-to-end delivery of MVPs, client-facing platforms, and internal tools across multiple industries",
+        "Built and deployed custom JavaScript and Node.js plugins in production",
+        "Integrated third-party REST APIs, payment processors, SOAP web services, and webhooks",
+        "Integrated AI-powered document generation services into live production platforms",
+        "Resolved performance, responsiveness, and accessibility bottlenecks across live applications",
+        "Mentored and provided technical guidance to junior developers",
+        "Collaborated with non-technical stakeholders to translate business requirements into technical solutions",
+        "Implemented workflow automation solutions using Make.com and Zapier"
+      ]
+    },
+    {
+      "company": "Giga Colombia",
+      "role": "Support Agent / Implementation Engineer",
+      "period": "July 2016 – July 2021",
+      "summary": "Enterprise technology company delivering document management and business process solutions to large organisations across banking, finance, healthcare, and government. Progressed from Support Agent to Implementation Engineer.",
+      "highlights": [
+        "Implemented and configured the Hyland OnBase ECM platform end-to-end for enterprise clients, including Windows Server setup and full solution delivery",
+        "Developed custom C#, JavaScript, and user forms alongside platform configuration",
+        "Designed, built, and maintained RESTful APIs and SOAP web services to integrate OnBase with enterprise systems",
+        "Optimised SQL Server and OracleDB schemas, queries, and stored procedures for performance",
+        "Conducted requirements engineering with client stakeholders: gathering information, mapping business processes, and presenting proposals",
+        "Maintained comprehensive technical documentation across implementations"
+      ]
+    }
+  ],
+
+  "projects": [
+    {
+      "name": "Profiles, Messages & Connections",
+      "description": "A Bubble.io template covering user profiles, connection requests, and real-time 1:1 chat. Built for SMEs and startups as a foundation for talent marketplaces, niche communities, and internal networks. Fully customisable in the Bubble editor without code.",
+      "tags": ["Bubble.io", "No-Code", "Real-Time Chat", "Template"],
+      "url": "https://bubble.io/template/profiles-messages-connections-1759297987856x676890433245937700"
+    },
+    {
+      "name": "AI Chat Knowledge Base",
+      "description": "A Bubble.io template for building a private AI chat assistant trained on your own documents. Built on a RAG architecture using the OpenAI API and vector store. Documents are chunked, embedded, and retrieved semantically at query time. Supports role-based access control and department-level knowledge organisation.",
+      "tags": [
+        "Bubble.io",
+        "OpenAI",
+        "RAG",
+        "Vector Store",
+        "No-Code",
+        "Template"
+      ],
+      "url": "https://bubble.io/template/ai-chat-knowledge-base-1755652466832x227257216124059650"
+    },
+    {
+      "name": "Client / Customer Portal",
+      "description": "A Bubble.io template for service businesses that need to manage clients, projects, and file or form submissions. Includes three user roles (admin, team member, client), a project/job tracking layer, a form submission and approval workflow, and role-based data privacy. No per-seat cost and fully customisable in the Bubble editor.",
+      "tags": ["Bubble.io", "No-Code", "CRM", "Template"],
+      "url": "https://bubble.io/template/client--customer-portal-1755161193237x263746633989881860"
+    },
+    {
+      "name": "Icon Packs",
+      "description": "A Bubble.io plugin that adds visual elements for five icon libraries: Material Icons, Bootstrap Icons, Phosphor Icons, Font Awesome Free, and Feather Icons. Each element supports colour customisation and hover transition settings directly in the Bubble editor.",
+      "tags": ["Bubble.io", "Plugin", "UI", "JavaScript", "CSS"],
+      "url": "https://bubble.io/plugin/icon-packs-1674777947381x791255394148417500"
+    },
+    {
+      "name": "HeyDay Journal",
+      "description": "A platform for creating printed photobooks with embedded QR codes that link to video and audio clips. Users build books from digital media, which are then professionally printed via the Lulu print platform. Payments and subscriptions are handled through Stripe. The QR codes bridge the physical book and the hosted digital media, so readers can watch or listen directly from the page.",
+      "tags": [
+        "Bubble.io",
+        "Stripe",
+        "Lulu",
+        "QR Codes",
+        "Print-on-Demand",
+        "AWS S3",
+        "PDF Generation",
+        "JavaScript",
+        "CSS"
+      ],
+      "url": "https://app.heyday-journal.com/"
+    },
+    {
+      "name": "Assess Treat Record",
+      "description": "A clinical documentation platform for massage therapy clinics. Clinicians create and manage clients, consultations, and ASTER records covering assessment, treatment, and evaluation. Includes an interactive 3D body map for marking muscle points, pre-filled clinical options to reduce documentation time, and client intake forms that work without a login. Built for desktop and tablet.",
+      "tags": [
+        "Bubble.io",
+        "Azure Speech-to-Text",
+        "PDF Generation",
+        "JavaScript",
+        "CSS"
+      ],
+      "url": "https://assesstreatrecord.com/"
+    },
+    {
+      "name": "PrepLocal",
+      "description": "A B2B marketplace and logistics platform connecting food and beverage producers directly with restaurants and buyers in Australia. Handles orders, purchase orders, and consignments across producers, purchasers, and third-party logistics partners. Migrated from a PHP MVP to Bubble to accelerate iteration.",
+      "tags": [
+        "Bubble.io",
+        "Stripe",
+        "Make",
+        "Xero",
+        "Google Maps",
+        "JavaScript",
+        "CSS"
+      ],
+      "url": "https://preplocal.com/"
+    },
+    {
+      "name": "Magic Boards",
+      "description": "A web application for small and medium enterprises to document standard operating procedures and convert them into task-based checklists. Account owners create SOPs with structured steps and sub-steps, assign tasks to team members, and track completion via a task board. Includes team management and file attachments per SOP.",
+      "tags": ["Bubble.io", "JavaScript", "CSS"],
+      "url": "https://app.magicboards.io/"
+    },
+    {
+      "name": "Story Gather",
+      "description": "A mobile app for recording and preserving personal life stories as audio. Story tellers record prompted or free-form audio stories, tag them with years and life stages, and share them with nominated listeners. Includes gamification with daily goals, streaks, and badges to encourage regular recording. Built as a Bubble.io web app wrapped as a native app for iOS and Android.",
+      "tags": ["Bubble.io", "Stripe", "Make", "JavaScript", "CSS"],
+      "url": "https://storygather.life/"
+    },
+    {
+      "name": "Boutique Property Hosts",
+      "description": "A property listing site and admin portal for a short and medium term furnished accommodation provider in Sydney. Guests can browse available properties while the admin portal handles property data and rental information management.",
+      "tags": ["Bubble.io", "JavaScript", "CSS"],
+      "url": "https://boutiquepropertyhosts.com.au/"
+    }
+  ],
+
+  "skills": {
+    "Languages": [],
+    "Backend": [],
+    "Frontend": [],
+    "Databases": [],
+    "Integration": [],
+    "Cloud & Tooling": [],
+    "Testing": []
+  },
+
+  "education": [
+    {
+      "institution": "Universidad de los Andes",
+      "degree": "MasterTrack Certificate: Automated and Agile Software Engineering Principles",
+      "year": "2022"
+    },
+    {
+      "institution": "Escuela Colombiana de Carreras Industriales (ECCI)",
+      "degree": "Professional Diploma in Software Engineering",
+      "year": "2018"
+    }
+  ],
+
+  "certifications": []
+}

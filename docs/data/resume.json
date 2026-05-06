@@ -1,0 +1,143 @@
+{
+  "identity": {
+    "name": "Esteban Ardila Valencia",
+    "title": "Full Stack Software Engineer | Tech Architect | .NET | Node.js | JavaScript",
+    "location": "Sydney, NSW, Australia",
+    "phone": "0451 158 709",
+    "email": "esardilav@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/esardila/",
+    "work_rights": "Australian Permanent Resident"
+  },
+
+  "summary": "Software engineer and technical architect with 10+ years of experience shipping production software. Work spans enterprise implementations, client platforms, API integrations, and system design. Focus on delivering practical solutions and working directly with stakeholders.",
+
+  "experience": [
+    {
+      "company": "Momentum Talent Pty Ltd (Momentum Group)",
+      "role": "Software Developer / Senior Developer / Junior Tech Architect",
+      "period": "April 2021 – April 2026",
+      "location": "Sydney, Australia",
+      "summary": "Sydney-based technology venture delivering custom digital platforms for clients across multiple industries. Operated as both hands-on developer and technical architect, owning the design and delivery of production web applications, integrations, and platform decisions from the ground up.",
+      "highlights": [
+        "Owned architectural decisions across multiple concurrent client platforms: data structure, integration patterns, service boundaries, and system scalability",
+        "Designed and implemented microservices-based workflows including internal API services, third-party microservice integrations, and API gateway patterns across distributed systems",
+        "Led end-to-end delivery of MVPs, client-facing platforms, and internal tools across multiple industries — from requirements through to production",
+        "Built and deployed custom JavaScript and Node.js plugins in production across multiple client applications",
+        "Integrated third-party REST APIs, payment processors, SOAP web services, and webhooks to keep complex systems connected and reliable",
+        "Integrated AI-powered document generation services into live production platforms",
+        "Resolved performance, responsiveness, and accessibility bottlenecks across live applications",
+        "Mentored and provided technical guidance to junior developers",
+        "Collaborated with non-technical stakeholders to translate business requirements into scalable technical solutions",
+        "Implemented workflow automation solutions using Make.com and Zapier"
+      ],
+      "techstack": [
+        "Bubble.io",
+        "JavaScript",
+        "Node.js",
+        "HTML",
+        "CSS",
+        "REST APIs",
+        "SOAP",
+        "Webhooks",
+        "Microservices",
+        "API Gateways",
+        "Automation",
+        "AI/LLM Integration",
+        "Payment Processors"
+      ]
+    },
+    {
+      "company": "Giga Colombia",
+      "role": "Software Engineer",
+      "period": "July 2016 – July 2021",
+      "location": "Bogota, Colombia",
+      "summary": "Enterprise technology company delivering document management and business process solutions to large organisations across banking, finance, healthcare, and government sectors. Progressed from Support Agent to Implementation Engineer, owning end-to-end solution delivery for enterprise clients.",
+      "highlights": [
+        "Implemented and configured the Hyland OnBase ECM platform end-to-end for enterprise clients, including server component setup on Windows Server, environment configuration, and full solution delivery",
+        "Developed custom C#, JavaScript, and user forms alongside platform configuration",
+        "Designed, built, and maintained RESTful APIs and SOAP web services to integrate OnBase with enterprise business systems",
+        "Optimised SQL Server and OracleDB schemas, queries, and stored procedures for performance and reliability",
+        "Conducted requirements engineering with client stakeholders: gathering information, mapping business processes, planning solutions, and presenting proposals for approval before implementation",
+        "Maintained comprehensive technical documentation across implementations"
+      ],
+      "techstack": [
+        "C#",
+        "ASP.NET",
+        "JavaScript",
+        "HTML",
+        "CSS",
+        "XML",
+        "Hyland OnBase ECM",
+        "RESTful APIs",
+        "SOAP Web Services",
+        "SQL Server",
+        "OracleDB",
+        "Windows Server"
+      ]
+    }
+  ],
+
+  "education": [
+    {
+      "institution": "Universidad de los Andes (UniAndes), Colombia",
+      "degree": "MasterTrack Certificate: Automated and Agile Software Engineering Principles",
+      "year": "2022",
+      "details": "Coursework covered user stories, version control workflows, TDD, and continuous integration alongside architecture styles, tactics, and design patterns with a focus on performance and modifiability. Automated testing strategies included E2E, exploratory, and visual regression. Full-stack SPAs were built with accessibility and internationalization requirements.",
+      "techstack": [
+        "TDD",
+        "CI/CD",
+        "Software Architecture & Design Patterns",
+        "Automated Testing"
+      ]
+    },
+    {
+      "institution": "Escuela Colombiana de Carreras Industriales (ECCI), Colombia",
+      "degree": "Bachelor of Software Engineering, Computer Science",
+      "year": "2018",
+      "details": "Five-year program covering object-oriented programming, data structures, algorithms, and software engineering fundamentals. Java was the primary language for application development.",
+      "techstack": ["Java", "OOP", "Data Structures", "Algorithms"]
+    }
+  ],
+
+  "certifications": [
+    {
+      "name": "Bubble Developer Certificate",
+      "year": "Expires October 2026"
+    },
+    {
+      "name": "Scrum Fundamentals Certified",
+      "year": "2018"
+    },
+    {
+      "name": "API and Microservices",
+      "year": "2020"
+    },
+    {
+      "name": "REST API Intermediate",
+      "year": "2020"
+    },
+    {
+      "name": "JavaScript Basic",
+      "year": "2020"
+    },
+    {
+      "name": "React",
+      "year": "2020"
+    },
+    {
+      "name": "AWS Cloud Practitioner",
+      "year": "In progress"
+    }
+  ],
+
+  "languages": [
+    {
+      "language": "English",
+      "level": "Proficient"
+    },
+    {
+      "language": "Spanish",
+      "level": "Native"
+    }
+  ]
+}
